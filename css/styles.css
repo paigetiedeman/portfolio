@@ -2,6 +2,11 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h1{
+  text-align: center;
+  color: darkblue;
+  font-size: 40px;
+}
 .column {
   width: 30%;
   float: left;
@@ -9,12 +14,14 @@ body {
   padding: 20px;
   margin-left: 20px;
 }
+
 img {
   float: left;
   width: 300px;
   height: 400px;
   box-sizing: border-box;
 }
+
 p {
   font-size: 14px;
 }
@@ -30,4 +37,16 @@ li {
 .square {
   list-style-type: square;
   margin-left: -2em;
+}
+
+.projects {
+  float: left;
+  margin-left: 20px;
+  padding: 20px;
+  background-color: rgb(255, 238, 224);
+}
+
+.projects h3 {
+  text-align: center;
+  text-decoration: underline rgb(124, 118, 124);
 }
