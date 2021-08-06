@@ -17,7 +17,7 @@ This is a simple HTML site that showcase's my portfolio of projects I have creat
 
 * Clone this repository to your desktop
 * Navigate to the top-level directory via your terminal
-* Open portfolio/index.html in your browser
+* Open https://paigetiedeman.github.io/portfolio/ in your browser
 
 ## Known Bugs
 
