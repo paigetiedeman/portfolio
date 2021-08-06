@@ -41,14 +41,24 @@ li {
   margin-left: -2em;
 }
 
-.projects {
+.column_right {
   float: left;
   margin-left: 20px;
+  margin-top:20px;
   padding: 20px;
+  width: 350px;
   background-color: rgb(255, 238, 224);
 }
 
 .projects h3 {
   text-align: center;
   text-decoration: underline rgb(124, 118, 124);
+}
+
+.coffee {
+  color: rgb(114, 55, 31);
+}
+
+.boba {
+  color:slateblue;
 }
