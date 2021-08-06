@@ -10,18 +10,18 @@ h1{
 
 .column {
   width: 30%;
-  float: left;
+  float:left;
   background-color: aliceblue;
   padding: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 img {
   float: left;
   width: 380px;
   height: 500px;
-  border: 8px dotted rgb(245, 181, 85);
-  box-sizing: border-box;
+  border: 8px dotted rgb(245, 157, 85);
+  display: block;
 }
 
 p {
@@ -43,16 +43,22 @@ li {
 
 .column_right {
   float: left;
-  margin-left: 20px;
-  margin-top:20px;
+  padding: auto;
+  margin-top: 20px;
+  margin-left: 10px;
   padding: 20px;
-  width: 350px;
+  width: 80%;
   background-color: rgb(255, 238, 224);
+  box-sizing: border-box;
 }
 
-.projects h3 {
+.column_right h3 {
   text-align: center;
   text-decoration: underline rgb(124, 118, 124);
+}
+
+.column_right li {
+  font-size: smaller;
 }
 
 .coffee {
