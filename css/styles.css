@@ -21,7 +21,6 @@ body {
 .column {
   float: left;
   width: 30%;
-  padding: 16px;
   margin-left: 15px;
   box-sizing: border-box;
   margin-top:15px;
@@ -44,8 +43,8 @@ img {
   padding: 16px;
   margin-top: 15px;
   margin-left: 15px;
-  padding: 20px;
-  height: 800px;
+  padding: 15px;
+  height: auto;
   margin-bottom: 15px;
   background-color: #81b29a94;
   border: 2px solid #81b29a96;
@@ -53,11 +52,11 @@ img {
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 li {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .square {
@@ -65,13 +64,13 @@ li {
   margin-left: -2em;
 }
 
-.column_right h3 {
+h3 {
   text-align: center;
   text-decoration: underline rgb(124, 118, 124);
 }
 
-.column_right li {
-  font-size: smaller;
+.job {
+  font-size: 14px;
 }
 
 .coffee {
