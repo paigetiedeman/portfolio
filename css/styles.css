@@ -74,9 +74,17 @@ li {
 }
 
 .coffee {
-  color: rgb(114, 55, 31);
+  color: #774936;
 }
 
 .boba {
-  color:slateblue;
+  color: #8228EC;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  color: #3D405B;
+  text-align: center;
+  background-color: white;
 }
