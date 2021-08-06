@@ -1,0 +1,20 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 13px;
+}
+
+.education p {
+  font-style: italic;
+}
+
+.square {
+  list-style-type: square;
+  margin-left: -2em;
+}

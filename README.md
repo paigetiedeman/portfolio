@@ -16,7 +16,7 @@ This is a simple HTML site that showcase's my portfolio of projects I have creat
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
-* Navigate to the top-leve directory via your terminal
+* Navigate to the top-level directory via your terminal
 * Open portfolio/index.html in your browser
 
 ## Known Bugs
