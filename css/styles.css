@@ -48,7 +48,7 @@ img {
   height: 775px;
   margin-bottom: 15px;
   background-color: #81b29a94;
-  border: 2px solid #81b29a96;
+  border: 5px dotted #81b29a96;
   box-sizing: border-box;
 }
 
