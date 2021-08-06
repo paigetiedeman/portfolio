@@ -21,7 +21,7 @@ body {
 
 .column {
   float: left;
-  width: 30%;
+  width: 32%;
   margin-left: 15px;
   box-sizing: border-box;
   margin-top:15px;
@@ -31,7 +31,7 @@ img {
   float: left;
   border: 5px dotted #3D405B;
   margin: auto;
-  width: 30%;
+  width: 32%;
   height: auto;
   display: block;
   margin-top: 15px;
@@ -40,12 +40,12 @@ img {
 
 .column_right {
   float: left;
-  width: 30%;
+  width: 32%;
   padding: 16px;
   margin-top: 15px;
   margin-left: 15px;
   padding: 15px;
-  height: auto;
+  height: 775px;
   margin-bottom: 15px;
   background-color: #81b29a94;
   border: 2px solid #81b29a96;
@@ -58,11 +58,6 @@ p {
 
 li {
   font-size: 14px;
-}
-
-.square {
-  list-style-type: square;
-  margin-left: -2em;
 }
 
 h3 {
@@ -86,7 +81,7 @@ h3 {
   clear: both;
   text-align: center;
   bottom: 0;
-  height: 50px;
+  height: 60px;
   padding: 8px;
   color: #3D405B;
   background-color: #e07b5fad;
